@@ -49,7 +49,7 @@ A time-series line chart highlights the **top 5 clients** based on outstanding b
 ---
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+![Outstanding Balance Analysis Dashboard](Outstanding-Balance-Analysis-Dashboard/ScreenshotofDashboard.png)
 
 ---
 
